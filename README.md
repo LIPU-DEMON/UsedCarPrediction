@@ -1,2 +1,2 @@
 An Simple ML Model Based On UsedCars From Kaggle CarDekho Dataset.<br>
-Transform,EDA,Model,Evaluation is Pending.
+EDA Report,Model Implementation,Evaluation is Pending.
