@@ -4,6 +4,8 @@ A Simple Machine Learning Model that predicts the prices for used cars with give
 ## Features:
 <li> Manual Data Preprocessing Using Pandas</li>
 <li>OneHotEncoder for Categorical Features</li>
+<li>StandardScaler and RobustScaler to Scale Numerical Features</li>
+<li>Exploratory Data Analysis</li>
 <Li>Model Traning using RandomForest (out of linear,DecisionTree with Tuning)</Li>
 <li>Custom Prediction with User Inputs.</li>
 
